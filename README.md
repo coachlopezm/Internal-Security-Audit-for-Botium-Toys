@@ -15,7 +15,7 @@ Goals:
 - Identify controls and compliance best practices that need to be implemented
 - Improve Botium Toys' overall security posture
 
-### Skills Learned
+## Skills Learned
 
 - Gained valuable experience in evaluating security controls and compliance with industry standards.
 - Reinforced understanding of the NIST Cybersecurity Framework.
@@ -27,7 +27,7 @@ Goals:
 - Strengthened knowledge in implementing least privilege and separation of duties to minimize insider threats.
 - Understood the necessity of encrypting sensitive data to protect against unauthorized access.
 
-### Tools Used
+## Tools Used
 
 - Google Docs for answering the checlist and listing recommendations.
 
