@@ -39,7 +39,7 @@ Goals:
 
 ## Tools Used
 
-- Google Docs for answering the checlist and listing recommendations.
+- Google Docs for answering the checklist and listing recommendations.
 
 ## Steps
 
